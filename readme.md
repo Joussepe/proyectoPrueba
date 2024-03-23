@@ -1,3 +1,3 @@
 Proyecto Academico
 Ingenieria
-Autor
+Autor Joussepe
